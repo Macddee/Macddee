@@ -9,4 +9,4 @@ Software Engineer | Fiancial Systems Engineer | Game Developer |
 
 💬 Ask me about Django, Flutter, PowerShell and Mathematics
 
-📫 How to reach me macddeemanana@gmail.com@gmail.com
+📫 How to reach me macddeemanana@gmail.com
